@@ -39,6 +39,7 @@ Install Suggested Plugins Click Install suggested plugins
 ## Configure Jenkins:
 Go to Manage Jenkins > Global Tool Configuration Add Maven (e.g., Maven 3.9.9)
 
+![Screenshot (98)](https://github.com/user-attachments/assets/5b83989d-99d8-4598-bc28-ef5b3f061bea)
 
 
 ### Create a Freestyle Project:
@@ -48,4 +49,7 @@ Build the Project Run the job Check the Console Output for BUILD SUCCESS
 Output If successful, the console will display: [INFO] BUILD SUCCESS
 
 ## Results: 
+![Screenshot (96)](https://github.com/user-attachments/assets/ad38bc8e-6051-427b-b9e9-0a7cf0f450c2)
+
+![Screenshot (97)](https://github.com/user-attachments/assets/eccb1f54-7b65-480c-b22e-22d12ac9e5f1)
 
