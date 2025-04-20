@@ -39,7 +39,7 @@ Install Suggested Plugins Click Install suggested plugins
 ## Configure Jenkins:
 Go to Manage Jenkins > Global Tool Configuration Add Maven (e.g., Maven 3.9.9)
 
-Screenshot (253)
+
 
 ### Create a Freestyle Project:
 Project Name: hello-java-maven Source Code Management: Git (use this repo URL) Build Step: Invoke top-level Maven targets Goals: clean package
@@ -47,4 +47,5 @@ Project Name: hello-java-maven Source Code Management: Git (use this repo URL) B
 Build the Project Run the job Check the Console Output for BUILD SUCCESS
 Output If successful, the console will display: [INFO] BUILD SUCCESS
 
-## Results: Screenshot (251) Screenshot (250)
+## Results: 
+
